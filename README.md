@@ -1,4 +1,3 @@
-```import { Meta, Props } from '@storybook/addon-docs/blocks';```
 
 <Meta title="Library/CameraX" />
 
